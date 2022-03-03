@@ -1,0 +1,37 @@
+body 
+{
+background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width:100px;
+margin: 0px;
+
+}
+
+#START, #number_of_objects, #START
+{
+font-size: 18px;
+}
+
+#copy_right_footer {
+position:fixed;
+color:blue;
+bottom:0;
+width:100%;
+background-color:white;
+line-height: 2;
+text-align:center;
+
+}
+
+
+canvas {
+
+    border: 2px, solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
